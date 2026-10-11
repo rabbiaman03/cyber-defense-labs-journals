@@ -66,7 +66,7 @@ This command will give the output of ASCII payloads and pipe them to grep. It wi
 
 # Lab 1C - Introduction to Cyberchef
 
-For this part I have watched CyberChef tutorial (https://youtu.be/m4uyiE0w6aU?si=uDXbdeq6xXJ9vr7R) and learned the beginner's guides. I have visited CyberChef and I put my **Base64-encoded string** from your tcpdump analysis. Then I have drag and drop operations by going **left panel** and under **Operations** searched for **"From Base64"**.
+For this part I have watched CyberChef tutorial (https://youtu.be/m4uyiE0w6aU) and learned the beginner's guides. I have visited CyberChef and I put my **Base64-encoded string** from your tcpdump analysis. Then I have drag and drop operations by going **left panel** and under **Operations** searched for **"From Base64"**.
 Then I clicked and dragged  the "From Base64" operation to the center panel. I baked it and on output penal I can see decoded data. 
 ![](../images/ss13-1.jpg)
 ![](../images/ss14.jpg)
